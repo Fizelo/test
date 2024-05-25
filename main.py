@@ -47,5 +47,6 @@ elif results == ans3_text:
 elif results == ans4_text:
     pyautogui.doubleClick(1029, 355)
 else:
-    print("error")
+    print("Don't have right answer.")
     quit()
+
